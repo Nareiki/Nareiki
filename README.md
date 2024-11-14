@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nareiki
 - 👀 I’m interested in Unity C# at the moment as i am currently an aspiring Games Programmer.
 - 🌱 Currently i'm learning C#, Game Design, Unity game engine and trying out new stuff
-- 💞️ I’m looking to collaborate on anything relating my current learing interests.
+- 💞️ I’m looking to collaborate on anything relating my current learning interests.
 - 📫 How to reach me at @Nareiki#5727
 
 <!---
