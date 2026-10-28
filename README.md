@@ -13,6 +13,7 @@ My technical focus spans **Software Architecture**, **Clean Architecture in .NET
 - ⚙️ **Systems & Networking:** Engineering concurrent network daemons with modern **C++20**, **POSIX Sockets (TCP/IP)**, and **OpenLDAP** authentication.
 - 🎮 **Game Systems Engineering:** Building decoupled gameplay architectures, custom **Behaviour Tree AI with Blackboards**, edit-time **Reflection code generators**, and object pooling in **Unity (C#)**.
 - 🛠️ **DevOps & Testing:** Experienced in **Docker Compose** multi-container setups, IT automation with **PowerShell**, and automated regression testing with **xUnit**, **JUnit**, and **Selenium**.
+- 🔀 **Git Collaboration:** Adherent of **GitHub Flow**—practicing isolated feature branches, clean commit hygiene, and structured Pull Request code reviews.
 
 ---
 
@@ -42,6 +43,7 @@ My technical focus spans **Software Architecture**, **Clean Architecture in .NET
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Flow](https://img.shields.io/badge/Workflow-GitHub_Flow-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/get-started/using-github/github-flow)
 
 ---
 
@@ -55,12 +57,3 @@ My technical focus spans **Software Architecture**, **Clean Architecture in .NET
 | [**Media Ratings Platform**](https://github.com/Nareiki/Media_Ratings_Platform) | **N-Tier Layered Architecture**<br>Layered enterprise media rating server with separated Presentation (`Api`), Business Logic (`Bll`), Data Access (`Dal`), Domain Models, and CLI interfaces. | `C#`, `ASP.NET Core`, `.NET`, `N-Tier Pattern`, `REST API` |
 | [**Nventory**](https://github.com/Nareiki/Nventory) | **Full-Stack Web Engineering**<br>Business inventory management solution developed during 2nd semester studies at FH Technikum Wien with automated tracking and reporting. | `TypeScript`, `Node.js`, `REST APIs`, `Relational Database` |
 | [**Magnetize-Marble**](https://github.com/Nareiki/Magnetize-Marble) | **Physics & Graphics Programming**<br>Interactive puzzle game exploring magnetic gameplay mechanics, custom shader logic, and real-time rigid-body interactions. | `Unity`, `C#`, `ShaderLab`, `Physics Engine` |
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nareiki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nareiki GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareiki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
