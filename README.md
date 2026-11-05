@@ -1,6 +1,6 @@
 # Hi there, I'm Christian Redl 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-redl-026b732bb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chr-redl/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianredl98@gmx.at)
 [![Location](https://img.shields.io/badge/Location-Vienna%2C_Austria-blue?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
